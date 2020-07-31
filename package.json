@@ -1,0 +1,11 @@
+{
+  "name": "cursos-travis-ci",
+  "version": "1.0.0",
+  "description": "curso de travis para ci",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pacool84",
+  "license": "MIT"
+}
